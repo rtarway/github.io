@@ -14,8 +14,9 @@ However, traditionally the changes required in fulfillment business rules have n
 
 In past 10 years, I personally came across a multitude of acronyms related to omnichannel. Can you decode any of these - `"BOPIS", "ROPIS", "ROPIC", "STH", "STS", "BOSS"`  ?
 
-With time, "Brick and Mortar" retailers started using stores as competitive advantage against pure online retailers, making products available to customer in lesser time in store, while pure online retailers like amazon invested in opening more fulfillment centers near large metros to reduce fulfillment time. Today, customers can get amazon fresh deliver groceries 
+With time, "Brick and Mortar" retailers started using stores as competitive advantage against pure online retailers, making products available to customer in lesser time in store, while pure online retailers like amazon invested in opening more fulfillment centers near large metros to reduce fulfillment time. Today, customers can get amazon deliveries within hours of placing orders. 
+The tensions and balancing counter force between amazon and other competiti
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjE3NTE1MjQsODM0MDQyMV19
+eyJoaXN0b3J5IjpbMTAyNzY5MTc2LDgzNDA0MjFdfQ==
 -->
