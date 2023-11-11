@@ -14,7 +14,8 @@ However, traditionally the changes required in fulfillment business rules have n
 
 In past 10 years, I personally came across a multitude of acronyms related to omnichannel. Can you decode any of these - `"BOPIS", "ROPIS", "ROPIC", "STH", "STS", "BOSS"`  ?
 
+With time, "Brick and Mortar" retailers started using stores as competitive advantage against pure online retailers, making products available to customer in lesser time in store 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTUzODMsODM0MDQyMV19
+eyJoaXN0b3J5IjpbLTEzNTY4NzY2NDEsODM0MDQyMV19
 -->
