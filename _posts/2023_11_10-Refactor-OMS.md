@@ -23,5 +23,5 @@ This fueled a need for agility in OMS systems as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MTgxODA2LDgzNDA0MjFdfQ==
+eyJoaXN0b3J5IjpbMTM0MTgxODA2XX0=
 -->
