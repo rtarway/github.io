@@ -12,8 +12,8 @@ However, traditionally the changes required in fulfillment business rules have n
 
 > Microservices are way to go for modern IT systems that need to evolve at a rapid pace.
 
-In past 10 years, I personally came across a multitude of acronyms related to omnichannel. Can you decode any of these ? "BOPIS", "ROPIS", "BASTH", "BASFARA", "PPSFS", "STS".  
+In past 10 years, I personally came across a multitude of acronyms related to omnichannel. Can you decode any of these ? "BOPIS", "ROPIS", "ROPIC", "STH", "", "STS".  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM0MDQyMV19
+eyJoaXN0b3J5IjpbNDk1NDA3NTc5LDgzNDA0MjFdfQ==
 -->
